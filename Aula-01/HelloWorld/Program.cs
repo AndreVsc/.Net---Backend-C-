@@ -18,7 +18,7 @@ namespace HelloWorld{
 
 
             // Criando uma variável
-            var teste = "texto";
+            // var teste = "texto";
 
             // Escrever no console
             Console.WriteLine("Hello World!");
@@ -27,11 +27,11 @@ namespace HelloWorld{
             Console.ReadLine();
 
             // Tipos
-            int inteiro;
-            float decima;
-            bool booleano;
-            string texto;
-            char caracter;
+            // int inteiro;
+            // float decima;
+            // bool booleano;
+            // string texto;
+            // char caracter;
 
             // Dynamic - Não usar
             dynamic test = "text";
@@ -40,8 +40,8 @@ namespace HelloWorld{
             Console.WriteLine(test);
             
             // Cosntantes no C#
-            const string hehehe = "copy";
-            const float pi = 3.14f;
+            // const string hehehe = "copy";
+            // const float pi = 3.14f;
         }
     }
 }

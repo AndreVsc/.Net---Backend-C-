@@ -5,3 +5,10 @@ C:\Users\André Victor\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.e
 C:\Users\André Victor\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\André Victor\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\André Victor\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\André Victor\Documents\GitHub\.Net---Backend-C-\Aula-01\HelloWorld\obj\Debug\HelloWorld.pdb
