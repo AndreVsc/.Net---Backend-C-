@@ -1,0 +1,7 @@
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.exe.config
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.exe
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.pdb
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.csproj.AssemblyReference.cache
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.csproj.CoreCompileInputs.cache
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.exe
+C:\Users\André Victor\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.pdb
